@@ -1,2 +1,2 @@
 # Oracle-Apex
-Repositorio de proyectos en Oracle Apex
+Sample QR-CODE
