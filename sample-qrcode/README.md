@@ -1,2 +1,11 @@
 # Oracle-Apex
-Sample QR-CODE
+
+QR-CODE handling sample. This application shows how create and load QR Codes in Oracle Apex.
+
+Installation Steps
+--------------------------
+
+1. Download the .zip files of this directory
+2. Navigate into Oracle Apex Environment to App Builder -> Import
+3. Drag and Drop the .zip file and click next
+4. Execute the SQL script  
