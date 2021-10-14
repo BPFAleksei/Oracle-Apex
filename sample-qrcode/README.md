@@ -10,5 +10,7 @@ Installation Steps
 3. Drag and Drop the .zip file and click next
 4. Execute the SQL script  
 
-[View Online Demo](https://apex.oracle.com/pls/apex/sofer_test/r/apexdemo1/).
+[View Online Demo](https://apex.oracle.com/pls/apex/sofer_test/r/apexdemo1).
+User: demo_user
+Password: admin123
 
