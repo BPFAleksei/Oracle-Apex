@@ -9,3 +9,6 @@ Installation Steps
 2. Navigate into Oracle Apex Environment to App Builder -> Import
 3. Drag and Drop the .zip file and click next
 4. Execute the SQL script  
+
+[View Online Demo](https://apex.oracle.com/pls/apex/sofer_test/r/apexdemo1/).
+
