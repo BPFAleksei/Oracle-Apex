@@ -11,6 +11,12 @@ Installation Steps
 4. Execute the SQL script into .sql file.
 5. Run the application 
 
+Screens
+--------------------------
+QRCode into table
+![imagen](https://user-images.githubusercontent.com/32690411/137372227-21e3969d-5f9d-499a-b288-2525ead9b299.png)
+
+
 Online Demo
 --------------------------
 
