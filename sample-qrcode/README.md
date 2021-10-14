@@ -15,6 +15,8 @@ Online Demo
 --------------------------
 
 [View Online Demo](https://apex.oracle.com/pls/apex/sofer_test/r/apexdemo1).
-UDownload the .zip files of this directorDownload the .zip files of this directorser: demo_user
+
+User: demo_user
+
 Password: admin123
 
