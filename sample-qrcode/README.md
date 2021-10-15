@@ -53,6 +53,16 @@ Step 6. Set in page properties - File URLs
 
 #APP_IMAGES#qrcode.min.js
 
+QR Generator Button
+--------------------------
+![image](https://user-images.githubusercontent.com/32690411/137411827-f722b6d3-91f0-4ca8-9afe-f5fea02be5e2.png)
+
+QR Scanner
+--------------------------
+![image](https://user-images.githubusercontent.com/32690411/137414452-786d3e0a-3cc7-4d7b-92e7-fe62aa890b4c.png)
+
+I use a plugin which you can find in
+[QR.CODE.SCANNER](https://apex.world/ords/f?p=100:710:10268868638450::::P710_PLG_ID:APEX.QR.CODE.SCANNER)
 
 Online Demo
 --------------------------
